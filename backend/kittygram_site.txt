@@ -1,0 +1,5 @@
+ IP: 89.169.167.79;
+ name_taski: https://taski.serveftp.com/;
+ name_kittygram: https://kitty.serveftp.com/;
+ login: admin;
+ password: qwer2004;
